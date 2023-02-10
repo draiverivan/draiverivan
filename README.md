@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, I have started to study Java 👋
+🌱 I’m currently learning Head First Java™ Second Edition
+🤔 I’m looking for help with some exercises to practice more
 <!--
 **draiverivan/draiverivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

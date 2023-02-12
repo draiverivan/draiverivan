@@ -1,5 +1,5 @@
 ### Hi there, I have started to study Java 👋
-🌱 I’m currently learning Head First Java™ Second Edition
+🌱 I’m currently learning Java
 
 🤔 I’m looking for help with some exercises to practice more
 <!--

@@ -1,0 +1,98 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestThreads",
+            "request": "launch",
+            "mainClass": "TestThreads",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BeatBoxFinal",
+            "request": "launch",
+            "mainClass": "BeatBoxFinal",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "DailyAdviceClient",
+            "request": "launch",
+            "mainClass": "DailyAdviceClient",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "DailyAdviceServer",
+            "request": "launch",
+            "mainClass": "DailyAdviceServer",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "MusicServer",
+            "request": "launch",
+            "mainClass": "MusicServer",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "RunThreads",
+            "request": "launch",
+            "mainClass": "RunThreads",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "RyanAndMonicaJob",
+            "request": "launch",
+            "mainClass": "RyanAndMonicaJob",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "SimpleChatClient",
+            "request": "launch",
+            "mainClass": "SimpleChatClient",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "SimpleChatClientA",
+            "request": "launch",
+            "mainClass": "SimpleChatClientA",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "TestSyncTest",
+            "request": "launch",
+            "mainClass": "TestSyncTest",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "ThreadTestDrive",
+            "request": "launch",
+            "mainClass": "ThreadTestDrive",
+            "projectName": "draiverivan_516c325"
+        },
+        {
+            "type": "java",
+            "name": "VerySimpleChatServer",
+            "request": "launch",
+            "mainClass": "VerySimpleChatServer",
+            "projectName": "draiverivan_516c325"
+        }
+    ]
+}
